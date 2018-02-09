@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="PushTest"
+  id="myeclipse.1518137159909"
+  context-root="/PushTest"
+  j2ee-spec="6.0"
+  archive="PushTest.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
